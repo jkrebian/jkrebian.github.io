@@ -25,7 +25,7 @@ organizations:
     url: https://jkacme.mintlify.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Foundation Owner and CEO of Non-profit organization, 
+Bio: Foundation Owner and CEO of Non-profit organization, 
 an Hobbyist in web learnings.
 
 # Social Networking
