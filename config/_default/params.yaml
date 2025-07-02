@@ -11,11 +11,11 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    site_type: Person Blog
+    local_business_type: 'Non-profit'
+    org_name: 'JKACME Foundation'
+    description: 'Personal Hugo blog powered by Hugo Blox Build'
+    twitter: '@sirchanmp'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,16 +36,16 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2025 J.Krebian. This work is licensed under MIT'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jul 2, 2025'
   time_format: '3:04 PM'
 
 # Site features
@@ -55,6 +55,6 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    url: 'https://github.com/jkrebian/jkrebian.github.io/'
     content_dir: starters/blog/content
     branch: main
