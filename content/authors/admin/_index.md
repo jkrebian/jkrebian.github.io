@@ -1,13 +1,13 @@
 ---
 # Display name
-title: **J.Krebian**
+title: J.Krebian
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: **John**
-last_name: **Krebian**
+first_name: John
+last_name: Krebian
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: _CEO of JKACME Foundation_
+role: CEO of JKACME Foundation
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: **JKACME Foundation**
+  - name: JKACME Foundation
     url: https://jkacme.mintlify.com/
 
 # Short bio (displayed in user profile at end of posts)
