@@ -1,44 +1,45 @@
 ---
 # Display name
-title: 吳健雄
+title: **J.Krebian**
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: **John**
+last_name: **Krebian**
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👋
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: _CEO of JKACME Foundation_
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: **JKACME Foundation**
+    url: https://jkacme.mintlify.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Foundation Owner and CEO of Non-profit organization, 
+an Hobbyist in web learnings.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: 📮
+    url: 'mailto:sirchanmp@hacari.net'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://twitter.com/sirchanmp
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/jkrebian.bsky.social
+  - icon: brands/github
+    url: https://jkrebian.github.io
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -51,9 +52,5 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://jkrebian.github.io"
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
