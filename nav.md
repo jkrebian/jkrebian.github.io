@@ -11,5 +11,5 @@
 
 
 
-* Links
-  * [Mrcme](/links/mrcme.md): 'https://mrcme.dpdns.org'
+* [Links](/links.md)
+
