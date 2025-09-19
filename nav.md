@@ -12,4 +12,4 @@
 
 
 * Links
-  * [Mrcme](https://mrcme.dpdns.org)
+  * [Mrcme](/links/mrcme.md): 'https://mrcme.dpdns.org'
