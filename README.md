@@ -23,9 +23,11 @@
 
 # Copyright
 
-![GitHub License](https://img.shields.io/github/license/jkrebian/jkrebian.github.io?style=plastic&logo=docsify&logoColor=blue&logoSize=amd)
+![GitHub License](https://img.shields.io/github/license/jkrebian/jkrebian.github.io?style=plastic)
 
 
-### [@jkrebian](https://jkrebian.github.io)
+
+    MIT License
+    Copyright © 2025 John Krebian
 
 **_John Krebian_**
