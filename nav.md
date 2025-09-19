@@ -13,4 +13,3 @@
 
 * Links
   * [Mrcme](https://mrcme.dpdns.org)
-  * [Noblog](https://sirchanmp.noblogs.org)
