@@ -1,2 +1,3 @@
-# jkrebian.github.io
-John Krebian
+# [@jkrebian](https://jkrebian.github.io)
+
+**_John Krebian_**
