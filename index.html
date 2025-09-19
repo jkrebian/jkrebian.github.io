@@ -15,14 +15,22 @@
     <div id="app">Welcome .....</div>
     <script>
       window.$docsify = {
-        name        : 'John Krebian Blog',
+        name        : 'John Krebian',
         repo        : 'jkrebian/jkrebian.github.io',
         coverpage   : 'coverpage.md',
         homepage    : 'README.md',
         loadSidebar : 'sidebar.md',
         maxlevel    : 5,
         subMaxlevel : 5,
-        loadNavbar  : 'nav.md'
+        loadNavbar  : 'nav.md',
+        alias: {
+          '/.*/nav.md': 'nav.md',
+          '/.*/sidebar.md': 'sidebar.md'
+        },
+        themeable: {
+          readyTransition: true,
+          responsiveTables: true
+        }
       }
     </script>
     
