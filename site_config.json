@@ -1,17 +1,17 @@
 {
-    "site_name": "mysite",
-    "site_slogon": "",
+    "site_name": "John Krebian TeeDoc",
+    "site_slogon": "Documentation Project with TeeDoc",
     "site_root_url": "/",
-    "site_domain": "my_name.github.io",
+    "site_domain": "jkrebian.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/my_name/my_name.github.io/blob/main",
+    "source": "https://github.com/jkrebian/jkrebian.github.io/blob/main",
     "route": {
         "docs": {
-            "/get_started/zh/": "docs/get_started/zh"
+            "/get_started/en/": "docs/get_started/en"
         },
         "pages": {
-            "/": "pages/index/zh"
+            "/": "pages/index/en"
         },
         "assets": {
             "/static/": "static",
@@ -19,24 +19,6 @@
         },
         "blog": {
             "/blog/": "blog"
-        }
-    },
-    "translate": {
-        "docs": {
-            "/get_started/zh/": [
-                {
-                    "url": "/get_started/en/",
-                    "src": "docs/get_started/en"
-                }
-            ]
-        },
-        "pages": {
-            "/": [
-                {
-                    "url": "/en/",
-                    "src": "pages/index/en"
-                }
-            ]
         }
     },
     "plugins": {
