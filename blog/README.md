@@ -1,9 +1,11 @@
 ---
 
-title: 博客
-keywords: my_site 博客
-desc: my_site 博客， 使用 teedoc 生成
+title: Jkrebian
+keywords: teedoc, project
+desc: jkrebian with teedoc
 show_source: false
-date: false
+date: 2025-10-06
 
 ---
+
+# Jkrebian Teedoc
