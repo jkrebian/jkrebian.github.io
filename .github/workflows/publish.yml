@@ -41,12 +41,13 @@ jobs:
           if [ -d "~/.local/bin/" ];then
             export PATH=~/.local/bin/:$PATH
           fi
-          commit_info=`git describe --all --always --long`
           teedoc install
           teedoc build
           out_dir=out`python3 -c 'import json; f=open("site_config.json");config=json.load(f);print(config["site_root_url"])'`
-          cp -rf .github $out_dir
-          echo ::set-output name=out_dir::$out_dir
+      - name: Save state
+        run: echo "{name}={value}" >> $GITHUB_STATE
+      - name: Set output
+        run: echo "{name}={value}" >> $GITHUB_OUTPUT
       - name: Deploy 🚀 to github pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with: # more usage visit https://github.com/JamesIves/github-pages-deploy-action
