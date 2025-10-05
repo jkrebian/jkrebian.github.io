@@ -1,9 +1,9 @@
 {
     "locale": "en",
     "navbar": {
-        "title": "my_site",
+        "title": "John Krebian TeeDoc",
         "logo": {
-            "alt": "my_site logo",
+            "alt": "jkrebian logo",
             "src": "/static/image/logo.png"
         },
         "home_url": "/en/",
@@ -18,7 +18,7 @@
                 "position": "left"
             },
             {
-                "url": "https://github.com/neutree/teedoc",
+                "url": "https://github.com/jkrebian/jkrebian.github.io",
                 "label": "github",
                 "target": "_blank",
                 "position": "right"
@@ -37,8 +37,8 @@
                 "label": "Links",
                 "items": [
                     {
-                        "label": "Build with teedoc",
-                        "url": "https://teedoc.neucrack.com",
+                        "label": "Build with teedoc by Me",
+                        "url": "https://jkrebian.github.io",
                         "target": "_blank"
                     },
                     {
@@ -52,12 +52,12 @@
                 "items": [
                     {
                         "label": "github",
-                        "url": "https://github.com/neutree/teedoc",
+                        "url": "https://github.com/jkrebian/jkrebian.github.io",
                         "target": "_blank"
                     },
                     {
                         "label": "website source files",
-                        "url": "https://github.com/teedoc/teedoc.github.io",
+                        "url": "https://github.com/jkrebian/jkrebian.github.io",
                         "target": "_blank"
                     }
                 ]
@@ -65,13 +65,13 @@
         ],
         "bottom": [
             {
-                "label": "*ICP备********号",
-                "url": "https://beian.miit.gov.cn",
+                "label": "github organization",
+                "url": "https://jk-acme.github.io",
                 "target": "_blank"
             },
             {
-                "label": "*公网安备***********号",
-                "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=****************",
+                "label": "linkedin",
+                "url": "http://linkedin.com/in/jkrebian",
                 "target": "_blank"
             }
         ]
