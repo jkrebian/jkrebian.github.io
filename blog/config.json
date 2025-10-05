@@ -1,5 +1,5 @@
 {
-    "import": "config_zh",
-    "class": "language_zh",
-    "name": "博客"
+    "import": "config_en",
+    "class": "language_en",
+    "name": "Jkrebian"
 }
