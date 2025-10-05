@@ -1,73 +1,11 @@
-teedoc website template
+John Krebian TeeDoc
 =====
 
-**[中文 README](./README_ZH.md) | English README**
+**[README](./README.md)**
 
+[jkrebian.github.io](https://jkrebian.github.io)
 
-
-This template supported by teedoc, visit: [teedoc.neucrack.com](https://teedoc.neucrack.com/) or [teedoc.github.io](https://teedoc.github.io) learn more
-
-
-## build locally
-
-* Install python3
-
-On `Windows` or `macOS`, download from [python.org](https://www.python.org/downloads/)
-
-On `Linux`, `Ubuntu` for example:
-
-```
-sudo apt install python3 python3-pip
-```
-
-* Install teedoc
-
-This command will **install teedoc program**
-
-```
-pip3 install teedoc
-```
-
-* Initialize document
-
-```
-mkdir my_site
-cd my_site
-teedoc init
-```
-
-or
-
-```
-teedoc -d my_site init
-```
-
-* Install plugins
-
-This command will **install plugins** used by doc(set in `site_config.json`)
-
-```
-cd my_site
-teedoc install
-```
-
-* build or serve
-
-```
-teedoc serve
-```
-
-then visit [http://127.0.0.1:2333](http://127.0.0.1:2333) in browser
-
-If you only want to generate htmls:
-
-```
-teedoc build
-```
-
-
-## Create your website on github pages in minutes
-
+![Static Badge](https://img.shields.io/badge/Jkrebian-TeeDoc-black?style=flat-square&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Fjkrebian.github.io)
 
 ### Create a repository based on a template
 
